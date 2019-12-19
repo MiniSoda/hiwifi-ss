@@ -13,7 +13,7 @@
 1. 使用项目根目录下的 `shadow.sh` 脚本进行安装, 建议使用以下一键命令:
 
     ```bash
-    cd /tmp && curl -k -o shadow.sh https://raw.githubusercontent.com/qiwihui/hiwifi-ss/master/shadow.sh && sh shadow.sh && rm shadow.sh
+    cd /tmp && curl -k -o shadow.sh https://raw.githubusercontent.com/minisoda/hiwifi-ss/master/shadow.sh && sh shadow.sh && rm shadow.sh
     ```
 
 2. 重启路由器
